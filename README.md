@@ -1,3 +1,3 @@
 # hello-world
 
-My life begun in an environment that had bits
+My life is an environment of bits
